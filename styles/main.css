@@ -1,0 +1,45 @@
+*{
+  font-family: 'Exo', sans-serif;
+}
+
+html {
+  background-color: #111117;
+}
+
+.title {
+  color: white;
+  font-weight: 100;
+}
+
+.logo{
+  padding: 0 0 2% 13%;
+}
+
+.subtitle{
+  color: white;
+  font-weight: 100;
+  padding: 10% 0 0 0;
+}
+
+.twitch-data {
+  text-align: center;
+  color: white;
+  font-weight: 200;
+  margin: 5% 0 0 0;
+}
+
+#userName a{
+  color: white;
+  font-size: 1.4rem;
+}
+#userName {
+  text-align: left;
+}
+
+#userStatus{
+  font-size: 1.4rem;
+}
+
+#userGame {
+  font-size: 1.4rem;
+}
